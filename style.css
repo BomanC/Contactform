@@ -1,1 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+    resize: none;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
 
+body{
+    background-color: var(--bg-clr);
+    font-size: 14px;
+    line-height: 20px;
+    color: var(--text-clr);
+    padding: 0 20px;
+}
+
+section{
+    width: 900px;
+    max-width: 100%;
+    background: var(--white);
+    margin: 35px auto;
+    box-shadow: 0 0 3px rgb(0,0,0,0.3);
+    position: relative;
+}
