@@ -92,20 +92,20 @@ h2,
     padding: 50px;
 }
 
-.contact_form .input.field:not(:last-child){
-    margin-bottom: 25px;
+.contact_form .input_field:not(:last-child){
+    margin-bottom: 15px;
     width: 100%;
 }
 
-.contact_form .input.field input,
-.contact_form .input.field textarea{
+.contact_form .input_field input,
+.contact_form .input_field textarea{
     width: 100%;
     padding: 10px;
     border: 2px solid #e9e9e9;
     transition: all 0.5s ease;
 }
 
-.contact_form .input.field button{
+.contact_form .input_field button{
     width: 100%;
     padding: 10px;
     border: 0;
@@ -115,12 +115,12 @@ h2,
     transition: all 0.5s ease;
 }
 
-.contact_form .input.field button:hover{
+.contact_form .input_field button:hover{
     opacity: 0.8;
 }
 
-.contact_form .input.field input:focus,
-.contact_form .input.field textarea:focus{
+.contact_form .input_field input:focus,
+.contact_form .input_field textarea:focus{
     border-color: #ff3b49;
 }
 
