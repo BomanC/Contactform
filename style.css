@@ -25,3 +25,24 @@ section{
     box-shadow: 0 0 3px rgb(0,0,0,0.3);
     position: relative;
 }
+
+.contact_top {
+    padding: 50px 100px;
+    width: 100%;
+    padding-right: 150px;
+}
+
+.contact_bottom {
+    background: #ff3b49;
+    padding: 80px 100px 50px;
+}
+
+.contact_top .get_in_touch,
+.contact_top .address{
+    width: 50%;
+    margin-right: 30px;
+}
+
+.contact_top .get_in_touch,
+.contact_top .info
+
