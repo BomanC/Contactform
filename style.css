@@ -93,7 +93,7 @@ h2,
 }
 
 .contact_form .input_field:not(:last-child){
-    margin-bottom: 15px;
+    margin-bottom: 25px;
     width: 100%;
 }
 
