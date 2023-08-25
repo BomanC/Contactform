@@ -64,3 +64,40 @@ h2,
 .contact_bottom .nav_links ul{
     justify-content: space-between;
 }
+
+.contact_top .address ul li .icon
+.contact_bottom .nav_links ul li {
+    margin-right: 15px;
+}
+
+.contact_bottom h2,
+.contact_bottom .nav_links ul li a {
+    color: #fff;
+}
+
+.contact_bottom p{
+    color: #fea1ab;
+}
+
+.contact_bottom .nav_links ul li a:hover{
+    text-decoration: underline;
+}
+
+.contact_form{
+    position: absolute;
+    top: 50px;
+    right: 100px;
+    background-color: #fff;
+    box-shadow: 0 0 3px rgba(0,0,0,0.3);
+    padding: 50px;
+}
+
+
+.contact_form .input.field,
+.contact_form .input.field textarea{
+    width: 100px;
+    padding: 10px;
+    border: 2px solid #3e3e3e;
+    transition: all 0.5s ease;
+}
+
