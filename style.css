@@ -92,6 +92,10 @@ h2,
     padding: 50px;
 }
 
+.contact_form .input.field:not(:last-child){
+    margin-bottom: 15px;
+    width: 100%;
+}
 
 .contact_form .input.field input,
 .contact_form .input.field textarea{
