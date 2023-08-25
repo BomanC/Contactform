@@ -53,4 +53,7 @@ h2,
     margin-bottom: 15px;
 }
 
-
+.contact_bottom .info,
+.contact_bottom .nav_links ul{
+    display: flex;
+}
