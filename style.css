@@ -44,5 +44,13 @@ section{
 }
 
 .contact_top .get_in_touch,
-.contact_top .info
+.contact_top .info {
+    margin-bottom: 30px;
+}
+
+h2,
+.contact_top .address ul li:not(:last-child){
+    margin-bottom: 15px;
+}
+
 
