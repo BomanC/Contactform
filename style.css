@@ -44,7 +44,8 @@ section{
 }
 
 .contact_top .get_in_touch,
-.contact_top .info {
+.contact_top .info,
+.contact_bottom .about {
     margin-bottom: 30px;
 }
 
@@ -53,7 +54,13 @@ h2,
     margin-bottom: 15px;
 }
 
+.contact_top .address ul li,
 .contact_bottom .info,
 .contact_bottom .nav_links ul{
     display: flex;
+}
+
+.contact_bottom .info,
+.contact_bottom .nav_links ul{
+    justify-content: space-between;
 }
