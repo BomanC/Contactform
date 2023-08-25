@@ -22,7 +22,7 @@ section{
     max-width: 100%;
     background: #fff;
     margin: 35px auto;
-    box-shadow: 0 0 3px rgb(0,0,0,0.3);
+    box-shadow: 0 0 3px rgba(0,0,0,0.3);
     position: relative;
 }
 
@@ -65,7 +65,7 @@ h2,
     justify-content: space-between;
 }
 
-.contact_top .address ul li .icon
+.contact_top .address ul li .icon,
 .contact_bottom .nav_links ul li {
     margin-right: 15px;
 }
@@ -93,7 +93,7 @@ h2,
 }
 
 .contact_form .input.field:not(:last-child){
-    margin-bottom: 15px;
+    margin-bottom: 25px;
     width: 100%;
 }
 
