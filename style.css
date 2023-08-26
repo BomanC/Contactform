@@ -124,7 +124,7 @@ h2,
     border-color: #ff3b49;
 }
 
-@media screen and(max-width: 825px) {
+@media screen and (max-width: 425px) {
 
 .contact_top{
     padding: 30px 50px;
