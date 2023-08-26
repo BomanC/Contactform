@@ -89,7 +89,7 @@ h2,
     right: 100px;
     background-color: #fff;
     box-shadow: 0 0 3px rgba(0,0,0,0.3);
-    padding: 30px;
+    padding: 20px;
 }
 
 .contact_form .input_field:not(:last-child){
